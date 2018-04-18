@@ -3,4 +3,3 @@ def absolute(num)
     return num
 end 
 
-p absolute(5)

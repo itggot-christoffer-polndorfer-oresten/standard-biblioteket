@@ -3,4 +3,3 @@ def is_even(num)
     return false
 end 
 
-p is_even(10)
