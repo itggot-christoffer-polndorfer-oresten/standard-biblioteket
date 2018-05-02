@@ -19,4 +19,3 @@ def power(base, exponent)
     return output
 end 
 
-p power(2, 3)
